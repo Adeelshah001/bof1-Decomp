@@ -1,7 +1,7 @@
 {
  "format": 1,
- "saved_at": 1795125064.555657,
- "revision": 12967,
+ "saved_at": 1795457628.7022674,
+ "revision": 12968,
  "title": "Breath of Fire",
  "platform": "gba",
  "game": {
@@ -932,8 +932,8 @@
   },
   "sub_08005274": {
    "vram": 134238836,
-   "matched_by": "codex-gpt-6.2-sol-high-1",
-   "readable": true
+   "best_score": 400,
+   "best_by": "codex-gpt-6.2-sol-high-1"
   },
   "sub_080052C0": {
    "vram": 134238912,
@@ -7097,8 +7097,8 @@
   },
   "sub_08017850": {
    "vram": 134314064,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_08017888": {
    "vram": 134314120,
@@ -7167,8 +7167,8 @@
   },
   "sub_0801806C": {
    "vram": 134316140,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_080180C8": {
    "vram": 134316232,
@@ -7852,8 +7852,8 @@
   },
   "sub_0801A9B8": {
    "vram": 134326712,
-   "matched_by": "opencode-deepseek-v4.1-flash-free-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "opencode-deepseek-v4.1-flash-free-1"
   },
   "sub_0801A9E0": {
    "vram": 134326752,
@@ -8057,8 +8057,8 @@
   },
   "sub_0801B1A0": {
    "vram": 134328736,
-   "matched_by": "codex-gpt-6.2-sol-high-1",
-   "readable": false
+   "best_score": 10,
+   "best_by": "codex-gpt-6.2-sol-high-1"
   },
   "sub_0801B1D0": {
    "vram": 134328784,
@@ -8292,8 +8292,8 @@
   },
   "sub_0801BA00": {
    "vram": 134330880,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_0801BA3C": {
    "vram": 134330940,
@@ -8437,8 +8437,8 @@
   },
   "sub_0801BF5C": {
    "vram": 134332252,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_0801BF88": {
    "vram": 134332296,
@@ -8552,8 +8552,8 @@
   },
   "sub_0801C434": {
    "vram": 134333492,
-   "matched_by": "api-nemotron-3-ultra-550b-a5-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "api-nemotron-3-ultra-550b-a5-1"
   },
   "sub_0801C494": {
    "vram": 134333588,
@@ -8612,8 +8612,8 @@
   },
   "sub_0801C69C": {
    "vram": 134334108,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_0801C6FC": {
    "vram": 134334204,
@@ -10227,8 +10227,8 @@
   },
   "sub_08021510": {
    "vram": 134354192,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_08021530": {
    "vram": 134354224,
@@ -11222,8 +11222,8 @@
   },
   "sub_080251D4": {
    "vram": 134369748,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_08025220": {
    "vram": 134369824,
@@ -11242,8 +11242,8 @@
   },
   "sub_080252A0": {
    "vram": 134369952,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_080252F8": {
    "vram": 134370040,
@@ -11257,8 +11257,8 @@
   },
   "sub_08025390": {
    "vram": 134370192,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_080253E8": {
    "vram": 134370280,
@@ -11999,11 +11999,6 @@
    "vram": 134376948,
    "matched_by": "antigravity-gemini-4-hydrogen-high-1",
    "readable": false
-  },
-  "func_08026E2C": {
-   "vram": 134377004,
-   "best_score": 630,
-   "best_by": "api-nemotron-3-ultra-550b-a5-1"
   },
   "sub_08026E64": {
    "vram": 134377060,
@@ -13472,8 +13467,8 @@
   },
   "sub_08031624": {
    "vram": 134420004,
-   "matched_by": "api-nemotron-3-ultra-550b-a5-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "api-nemotron-3-ultra-550b-a5-1"
   },
   "sub_0803166C": {
    "vram": 134420076,
@@ -18017,8 +18012,8 @@
   },
   "sub_08048084": {
    "vram": 134512772,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_080480FC": {
    "vram": 134512892,
@@ -18057,8 +18052,8 @@
   },
   "sub_080482EC": {
    "vram": 134513388,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 405,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_0804833C": {
    "vram": 134513468,
@@ -21780,11 +21775,6 @@
    "matched_by": "autopilot",
    "readable": false
   },
-  "sub_08056B88": {
-   "vram": 134572936,
-   "best_score": 400,
-   "best_by": "autopilot"
-  },
   "sub_08056B9C": {
    "vram": 134572956,
    "matched_by": "autopilot",
@@ -24857,13 +24847,13 @@
   },
   "sub_08073C68": {
    "vram": 134691944,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_08073C8C": {
    "vram": 134691980,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_08073CCC": {
    "vram": 134692044,
@@ -25412,8 +25402,8 @@
   },
   "sub_080756DC": {
    "vram": 134698716,
-   "matched_by": "codex-gpt-6.2-sol-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "codex-gpt-6.2-sol-high-1"
   },
   "sub_08075738": {
    "vram": 134698808,
@@ -25627,8 +25617,8 @@
   },
   "sub_080796A4": {
    "vram": 134715044,
-   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "antigravity-gemini-4-hydrogen-high-1"
   },
   "sub_08079708": {
    "vram": 134715144,
@@ -25637,8 +25627,8 @@
   },
   "sub_0807983C": {
    "vram": 134715452,
-   "matched_by": "codex-gpt-6.2-sol-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "codex-gpt-6.2-sol-high-1"
   },
   "sub_080798A0": {
    "vram": 134715552,
@@ -25657,8 +25647,8 @@
   },
   "sub_08079B4C": {
    "vram": 134716236,
-   "matched_by": "codex-gpt-6.2-sol-high-1",
-   "readable": false
+   "best_score": 400,
+   "best_by": "codex-gpt-6.2-sol-high-1"
   },
   "sub_08079BB0": {
    "vram": 134716336,
@@ -33042,8 +33032,8 @@
   },
   "sub_080A0400": {
    "vram": 134874112,
-   "best_score": 3510,
-   "best_by": "opencode-deepseek-v4.1-flash-free-1"
+   "matched_by": "opencode-deepseek-v4.1-flash-free-1",
+   "readable": false
   },
   "sub_080A045C": {
    "vram": 134874204,
@@ -33152,8 +33142,8 @@
   },
   "sub_080A0B1C": {
    "vram": 134875932,
-   "best_score": 230,
-   "best_by": "antigravity-gemini-4-hydrogen-high-1"
+   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
+   "readable": false
   },
   "sub_080A0B70": {
    "vram": 134876016,
@@ -33350,11 +33340,6 @@
    "matched_by": "autopilot",
    "readable": false
   },
-  "sub_080A46F4": {
-   "vram": 134891252,
-   "best_score": 1140,
-   "best_by": "antigravity-gemini-3.8-flash-high-1"
-  },
   "sub_080A4718": {
    "vram": 134891288,
    "matched_by": "codex-gpt-6.2-sol-high-1",
@@ -33507,17 +33492,12 @@
   },
   "sub_080A580C": {
    "vram": 134895628,
-   "best_score": 220,
-   "best_by": "antigravity-gemini-4-hydrogen-high-1"
+   "matched_by": "antigravity-gemini-4-hydrogen-high-1",
+   "readable": false
   },
   "sub_080A5850": {
    "vram": 134895696,
    "matched_by": "codex-gpt-6.2-sol-high-1",
-   "readable": false
-  },
-  "sub_080A5908": {
-   "vram": 134895880,
-   "matched_by": "permuter",
    "readable": false
   },
   "sub_080A5B00": {
