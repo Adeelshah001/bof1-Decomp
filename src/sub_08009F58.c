@@ -1,0 +1,31 @@
+extern u8 D_03002AB0[];
+extern u8 D_030023D0[];
+extern u8 D_03004830[];
+
+void sub_08009D40(Entity *arg0) {
+    u8 *p1 = D_03002AB0;
+    u8 *p2 = D_03004830;
+    p1[0xB8] &= 0xFB;
+    p2[0x2B] += 1;
+    arg0->unk68 += 2;
+}
+
+void sub_08009E50(Entity *arg0) {
+    u32 val = 0x8067;
+    u8 *p1 = D_03002AB0;
+    arg0->unk41 |= 0x30;
+    *(u32 *)(p1 + 0x94) = val;
+    D_030023D0[0] = 2;
+    arg0->unk68 += 2;
+}
+
+void sub_08009F3C(Entity *arg0) {
+    if (*(u8 *)0x03002B68 & 4)
+        arg0->unk68 += 2;
+}
+
+void sub_08009F58(Entity *arg0) {
+    D_03004830[0x2A] = 9;
+    D_03004830[0x2B] = 0;
+    arg0->unk68 += 2;
+}
