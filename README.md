@@ -1,3 +1,5 @@
+![Breath of Fire decompilation logo](breath_of_fire_decomp_logo.png)
+
 ![Decompilation completion and function map](decompdecomp-progress.svg)
 
 # Breath of Fire decompilation
